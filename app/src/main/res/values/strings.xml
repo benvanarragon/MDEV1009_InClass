@@ -18,4 +18,12 @@
     <string name="no_address_found">No Addresses Found</string>
     <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
     <string name="loading">Loading</string>
+
+    <!-- week 5 strings -->
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="dropped_pin">Dropped Pin</string>
 </resources>
